@@ -1,6 +1,7 @@
 # ScoreBoard App
 
-# Tech Used
-Javascript
-HTML
-CSS
+# 🤖 Tech Used
+Javascript <br>
+HTML <br>
+CSS <br>
+
