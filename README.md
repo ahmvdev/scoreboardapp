@@ -6,4 +6,4 @@
 - CSS <br>
 
 # ⚡ Live On Vercel ⚡
-- [ScoreBoard App] (https://scoreboardapp-six.vercel.app/)
+- [ScoreBoard App](https://scoreboardapp-six.vercel.app/)
